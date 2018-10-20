@@ -1,3 +1,6 @@
+<img src='https://raw.githubusercontent.com/thesequencer/crud-react-axios-redux/master/captura.png'/>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
