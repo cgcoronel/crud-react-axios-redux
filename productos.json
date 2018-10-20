@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "nombre": "Pastel de Vainilla ",
+      "precio": "100"
+    },
+    {
+      "id": 2,
+      "nombre": "Pastel 3",
+      "precio": 60
+    },
+    {
+      "id": 3,
+      "nombre": "Pastel 4",
+      "precio": 30
+    },
+    {
+      "nombre": "Pastel de Zanahoria",
+      "precio": "45",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "nombre": "Pastel de Nuez",
+      "precio": "120"
+    },
+    {
+      "nombre": "Pastel de Fresa",
+      "precio": "40",
+      "id": 6
+    },
+    {
+      "nombre": "Chocolate",
+      "precio": "130",
+      "id": 7
+    },
+    {
+      "nombre": "Dulce de Leche",
+      "precio": "100",
+      "id": 8
+    },
+    {
+      "nombre": "Pollo",
+      "precio": "120",
+      "id": 9
+    }
+  ]
+}
